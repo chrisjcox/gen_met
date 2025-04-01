@@ -18,7 +18,7 @@ function [rho_dry, rho] = calc_rho_air(T,rh,p)
 % INPUT:
 %
 %   (may be vectors)
-%   T = temperature in degC
+%   T = temperature in K
 %   rh = relative humidity wrt water in %
 %   p = air pressure in hPa
 %
